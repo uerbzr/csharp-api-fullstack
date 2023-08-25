@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roastreview.data", "roastreview.data\roastreview.data.csproj", "{D118ECD4-20E8-424D-8F2C-069B74D2655C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roastreview.www1", "roastreview.www1\roastreview.www1.csproj", "{3E7908AA-614F-479E-8565-B41DF6FBEC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roastreview.wwwapi", "roastreview.wwwapi\roastreview.wwwapi.csproj", "{6077C076-E0BB-42A6-B116-BED3D3E0F949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roastreview.tests", "roastreview.tests\roastreview.tests.csproj", "{E1D33CDF-D1AC-4427-84A8-B312C091E1CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roastreview.models", "roastreview.models\roastreview.models.csproj", "{C7E1D57E-2905-49DC-B65B-B295F8C33806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D118ECD4-20E8-424D-8F2C-069B74D2655C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D118ECD4-20E8-424D-8F2C-069B74D2655C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D118ECD4-20E8-424D-8F2C-069B74D2655C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D118ECD4-20E8-424D-8F2C-069B74D2655C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7908AA-614F-479E-8565-B41DF6FBEC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7908AA-614F-479E-8565-B41DF6FBEC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7908AA-614F-479E-8565-B41DF6FBEC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7908AA-614F-479E-8565-B41DF6FBEC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6077C076-E0BB-42A6-B116-BED3D3E0F949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6077C076-E0BB-42A6-B116-BED3D3E0F949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6077C076-E0BB-42A6-B116-BED3D3E0F949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6077C076-E0BB-42A6-B116-BED3D3E0F949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D33CDF-D1AC-4427-84A8-B312C091E1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D33CDF-D1AC-4427-84A8-B312C091E1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D33CDF-D1AC-4427-84A8-B312C091E1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D33CDF-D1AC-4427-84A8-B312C091E1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E1D57E-2905-49DC-B65B-B295F8C33806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E1D57E-2905-49DC-B65B-B295F8C33806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E1D57E-2905-49DC-B65B-B295F8C33806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E1D57E-2905-49DC-B65B-B295F8C33806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
